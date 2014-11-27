@@ -1,5 +1,5 @@
 //
-//  roViewController.h
+//  roTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by ronald chavez on 11/27/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface roViewController : UIViewController
+@interface roTableViewController : UITableViewController
 
 @end
